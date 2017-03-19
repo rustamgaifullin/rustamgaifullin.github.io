@@ -1,5 +1,7 @@
-name: Hank Quinlan, Horrible Cop
+name: Rustam Gaifullin
 markdown: kramdown
 theme: jekyll-theme-cayman
 title: Rustam Gaifullin's blog
 show_downloads: false
+
+exclude: [Gemfile, Gemfile.lock, README.md]
