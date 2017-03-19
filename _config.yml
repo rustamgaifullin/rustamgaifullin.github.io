@@ -4,4 +4,6 @@ theme: jekyll-theme-cayman
 title: Rustam Gaifullin's blog
 show_downloads: false
 
+timezone: Europe/Warsaw
+
 exclude: [Gemfile, Gemfile.lock, README.md]
