@@ -7,3 +7,5 @@ show_downloads: false
 timezone: Europe/Warsaw
 
 exclude: [Gemfile, Gemfile.lock, README.md]
+
+google_analytics: UA-93980857-1
