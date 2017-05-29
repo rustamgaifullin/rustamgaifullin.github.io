@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mock final classes in Kotlin"
+title:  "Resolving a problem of mocking final classes in Kotlin and running tests in Java Modules from Android Studio. "
 date:   2017-05-29 01:23:45
 categories: android, kotlin
 tags: [kotlin, android, unit testing, final, mock, mockito2, android studio, java library]
