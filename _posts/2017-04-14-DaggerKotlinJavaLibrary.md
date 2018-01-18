@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "Configuring Java Module with Dagger2 and Kotlin in Android Studio "
 date:   2017-04-14 01:23:45
 categories: android
 tags: [kotlin, dagger2, android studio, java library, module, java]
+permalink: /:categories/:year/:month/:day/:title.html
 ---
 
 Several weeks ago I started to work on moving all code related to communication with APIs to a separate module.
