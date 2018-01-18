@@ -1,10 +1,9 @@
 ---
-layout: single
+layout: post
 title:  "Resolving a problem of mocking final classes in Kotlin and running tests in Java Modules from Android Studio. "
 date:   2017-05-29 01:23:45
 categories: android, kotlin
 tags: [kotlin, android, unit testing, final, mock, mockito2, android studio, java library]
-permalink: /:categories/:year/:month/:day/:title.html
 ---
 
 In Kotlin classes are final by default and to be able to mock them you have to make additional configuration.

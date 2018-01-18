@@ -1,10 +1,9 @@
 ---
-layout: single
+layout: post
 title:  "Dagger 2 - encapsulation with subcomponents"
 date:   2017-03-25 01:23:45
 categories: java
 tags: [java, dagger2, subcomponent, di, dependency injection]
-permalink: /:categories/:year/:month/:day/:title.html
 ---
 
 One of the purpose of subcomponents is to encapsulate different parts from each other.
